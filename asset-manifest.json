@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Textify/static/css/main.f855e6bc.css",
-    "main.js": "/Textify/static/js/main.c81d34b6.js",
-    "static/js/453.cf9b8b1b.chunk.js": "/Textify/static/js/453.cf9b8b1b.chunk.js",
+    "main.css": "/Textify/static/css/main.b4ff8bdd.css",
+    "main.js": "/Textify/static/js/main.e4b7f33a.js",
+    "static/js/453.69f3745b.chunk.js": "/Textify/static/js/453.69f3745b.chunk.js",
     "index.html": "/Textify/index.html",
-    "main.f855e6bc.css.map": "/Textify/static/css/main.f855e6bc.css.map",
-    "main.c81d34b6.js.map": "/Textify/static/js/main.c81d34b6.js.map",
-    "453.cf9b8b1b.chunk.js.map": "/Textify/static/js/453.cf9b8b1b.chunk.js.map"
+    "main.b4ff8bdd.css.map": "/Textify/static/css/main.b4ff8bdd.css.map",
+    "main.e4b7f33a.js.map": "/Textify/static/js/main.e4b7f33a.js.map",
+    "453.69f3745b.chunk.js.map": "/Textify/static/js/453.69f3745b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.c81d34b6.js"
+    "static/css/main.b4ff8bdd.css",
+    "static/js/main.e4b7f33a.js"
   ]
 }
